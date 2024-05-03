@@ -9,14 +9,14 @@ a warning message is printed to that effect. The problematic range of flashing f
 1. Photosensitive epilepsy (2023). Epilepsy Society. Available at: https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-triggers/photosensitive-epilepsy#:~:text=What%20rate%20of%20flashing%20light,3%20Hertz%20is%20not%20common. (Accessed: 03 May 2024).
 
 ## Circuit Setup
-Image of Arduino circuit setup used with code:
+**Image of Arduino circuit setup used with code:**
 ![Arduino Setup](https://github.com/JoelANB/Arduino-Projects/assets/60829930/7bac204b-c291-4dee-a929-a360dbc94d88)
 
 
 ## Example Outputs
-Graph showing data for light signal believed not to be at risk of causing epileptic seizure:
+**Graph showing data for light signal believed not to be at risk of causing epileptic seizure:**
 ![Safe Lighting1](https://github.com/JoelANB/Arduino-Projects/assets/60829930/cb5121cd-15ed-45db-a4fb-77b492a33504)
 
-Graph showing data for light signal which may cause epileptic seizure epileptic seizure:
+**Graph showing data for light signal which may cause epileptic seizure epileptic seizure:**
 ![Epilepsy Detection Image](https://github.com/JoelANB/Arduino-Projects/assets/60829930/7d812796-12ad-4b1c-aebb-edb66839a39e)
 

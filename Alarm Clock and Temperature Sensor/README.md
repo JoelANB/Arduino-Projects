@@ -18,6 +18,10 @@ Non-Trivial Components Required:
 - 16x2 LCD Arduino Screen (comes in standard Arduino starter kit)
 ![Alarm Clock Setup](https://github.com/JoelANB/Arduino-Projects/assets/60829930/fd6a4604-1d16-4fc0-a90f-fe7460f2f65b)
 
+
+## Note on Firmata Setup
+The standard Firmata setup used by the Arduino to communicate with Python via pyFirmata is not quite enough. A slightly modified `.ino` file is included here which should allow the code in this repository to work. See [here](https://github.com/JoelANB/Arduino-Projects/tree/main/Alarm%20Clock%20and%20Temperature%20Sensor/new_standard_firmata)
+
 ## Music Credit
 - Calming music credits:
 Aqua Euphoria (with Lucentia) (432 Hz) by Spheriá | https://soundcloud.com/spheriamusic

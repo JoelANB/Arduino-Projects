@@ -8,7 +8,7 @@ The alarm is stopped by holding a button until the music stops, at which point
 the user is greeted by a text to speech message which includes what day it is.
 If this button is pressed outside of the alarm time, music is played depending on
 the ambient temperature. If the temperature is considered warm, upbeat music is played.
-If the temperature is cool, calming music is played.
+If the temperature is cool, calming music is played. Screen brightness is controlled by a rotational variable resistor.
 
 Note that, for simplicity, laptop speakers are used for audio output here. The exact music files used for this project are included here for completeness.
 

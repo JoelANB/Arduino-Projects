@@ -20,7 +20,7 @@ Non-Trivial Components Required:
 
 
 ## Note on Firmata Setup
-The standard Firmata setup used by the Arduino to communicate with Python via pyFirmata is not quite enough. A slightly modified `.ino` file is included here which should allow the code in this repository to work. See [here](https://github.com/JoelANB/Arduino-Projects/tree/main/Alarm%20Clock%20and%20Temperature%20Sensor/new_standard_firmata)
+The standard Firmata setup used by the Arduino to communicate with Python via pyFirmata is not quite enough. A slightly modified `.ino` file is included here which should allow the code in this repository to work. See [here](https://github.com/JoelANB/Arduino-Projects/tree/main/Alarm%20Clock%20and%20Temperature%20Sensor/new_standard_firmata).
 
 ## Music Credit
 - Calming music credits:

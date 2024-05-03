@@ -13,6 +13,9 @@ If the temperature is cool, calming music is played. Screen brightness is contro
 Note that, for simplicity, laptop speakers are used for audio output here. The exact music files used for this project are included here for completeness.
 
 ## Circuit Setup
+Non-Trivial Components Required:
+- Rotational Variable Resistor
+- 16x2 LCD Arduino Screen (comes in standard Arduino starter kit)
 ![Alarm Clock Setup](https://github.com/JoelANB/Arduino-Projects/assets/60829930/fd6a4604-1d16-4fc0-a90f-fe7460f2f65b)
 
 ## Music Credit

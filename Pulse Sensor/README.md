@@ -7,3 +7,7 @@ both printed and played on audio using text to speech via the laptop/computer sp
 
 ## Circuit Setup
 ![Pulse_sensor_setup2](https://github.com/JoelANB/Arduino-Projects/assets/60829930/44531b85-c3f8-4cdc-8fa3-b16fb2afe1ae)
+
+## Output
+![PPG1](https://github.com/JoelANB/Arduino-Projects/assets/60829930/e10f8fc9-89b2-47eb-93ea-f4af5186df47)
+

@@ -1,7 +1,7 @@
 # Project Summary
 
 This project contains a script designed to be run with an Arduino. Its aim is to provide a simple test for 
-environments which may ptentially be dangerous to those who may experience epileptic seizures
+environments which may potentially be dangerous to those who may experience epileptic seizures
 due to flashing lights. A phototransistor was used for the circuit tested, but it is expected that
 a photoresistor would work equally well if not better. If the code deems an epiletic seizure possible,
 a warning message is printed to that effect. The problematic range of flashing frequency was deemed to be between 3 Hz and 30 Hz based on information provided by the Epilepsy Society [1].

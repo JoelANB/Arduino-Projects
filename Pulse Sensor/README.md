@@ -2,7 +2,7 @@
 
 This script works with an Arduino UNO to read a person's pulse rate (primarily at the finger).
 It then flashes an LED to mimic the pulse data just received. Finally, heart rate is collected 
-from the obtained data and message about whether the pulse rate is within normal resting range is
+from the obtained data and a message about whether the pulse rate is within normal resting range is
 both printed and played on audio using text to speech via the laptop/computer speakers.
 
 ## Circuit Setup
